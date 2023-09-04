@@ -154,9 +154,9 @@ html.has-scroll-dragging {
     margin-left: 30px;
     opacity: .6;
     line-height: 1;
-    font-size: 8vw;
+    font-size: 10vw;
     text-transform: uppercase;
-    font-weight: 500;
+    font-weight: 900;
 }
 
 #heading #secondh1 {
